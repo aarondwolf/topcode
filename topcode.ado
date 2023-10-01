@@ -1,4 +1,4 @@
-*! version 1.0.1  21aug2019 Aaron Wolf, aaron.wolf@yale.edu
+*! version 1.0.1  21aug2019 Aaron Wolf, aaron.wolf@u.northwestern.edu
 program topcode, rclass
 	syntax varname [, Generate(name) PCtile(integer 99)]
 		
